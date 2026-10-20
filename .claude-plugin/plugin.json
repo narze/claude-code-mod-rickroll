@@ -1,0 +1,6 @@
+{
+  "name": "rickroll",
+  "version": "0.1.0",
+  "description": "Never gonna give you up: a /rickroll command and a very tempting link above the prompt",
+  "types": "./types/index.d.ts"
+}
